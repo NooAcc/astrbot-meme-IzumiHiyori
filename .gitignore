@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# 系统与编辑器
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
+
+# 本地语义索引与本机状态（由插件生成，不属于可分发内容）
+semantic_indexes/
+*.tmp

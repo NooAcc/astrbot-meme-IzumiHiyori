@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "id": "izumi-hiyori-meme-pack",
+  "name": "泉妃爱表情包",
+  "version": "1.0.0",
+  "description": "收录 99 张泉妃爱（Izumi Hiyori）聊天表情，按 18 个语义类别整理，并附带 99 条路径级语义描述（不含向量，安装后可自行重建）。",
+  "author": "NooAcc",
+  "homepage": "https://github.com/NooAcc/astrbot-meme-IzumiHiyori",
+  "license": "CC-BY-NC-SA-4.0",
+  "tags": [
+    "izumi-hiyori",
+    "anime",
+    "static",
+    "meme-pack",
+    "zh-cn",
+    "semantic"
+  ],
+  "icon": "previews/cover.png",
+  "previews": [
+    "previews/cover.png"
+  ],
+  "source": {
+    "type": "github",
+    "repo": "NooAcc/astrbot-meme-IzumiHiyori",
+    "ref": "v1.0.0",
+    "subpath": "."
+  },
+  "categories": {
+    "happy": {
+      "description": "用于打招呼、成功确认、夸奖对方或庆祝的积极场合，语气开朗。典型语境：太好了、终于搞定了、你真棒、早上好、谢谢你。"
+    },
+    "like": {
+      "description": "用于表达喜欢、爱意、夸赞与亲昵互动，适合关系较近的对话。典型语境：好喜欢你、太甜了、心动了、你对我来说很重要。"
+    },
+    "sad": {
+      "description": "用于表达难过、委屈、破防，或用于安慰遭遇不顺的对方。典型语境：难受、想哭、好委屈、被骂了、有我陪着你。"
+    },
+    "angry": {
+      "description": "用于表达不满、抗议或假装生气，例如被冒犯、被抢东西、觉得离谱时；语气可控，不用于真实争吵。典型语境：气死我了、太过分了、你怎么这样、别老是。"
+    },
+    "sigh": {
+      "description": "用于无奈、无语、嫌弃、疲惫与摆烂等消极但不激烈的情绪。典型语境：又是这样、算了、随便吧、唉、不想说了。"
+    },
+    "confused": {
+      "description": "表示没听懂、需要对方解释，或对当前话题感到困惑。典型语境：没听懂、什么意思、说的哪个、有点跟不上。"
+    },
+    "surprised": {
+      "description": "用于对意外信息、突然转折表达惊讶或发懵。典型语境：真的假的、没看错吧、啊？、突然、没想到。"
+    },
+    "shy": {
+      "description": "用于害羞、被夸奖、涉及隐私话题时的腼腆反应。典型语境：别夸我、不好意思、会脸红、别说啦。"
+    },
+    "sleep": {
+      "description": "用于困倦、休息、熬夜提醒，或躺平摆烂式的自嘲。典型语境：好困、去睡了、晚安、又熬夜、先躺一会儿。"
+    },
+    "baka": {
+      "description": "用于自嘲犯傻、装糊涂、玩文字游戏等轻松场合。典型语境：是我笨了、我搞错了、犯傻了、脑子不好使。"
+    },
+    "fool": {
+      "description": "用于玩梗、整活、吐槽气氛的搞笑场合。典型语境：笑死、太沙雕了、整活成功、什么操作。"
+    },
+    "meow": {
+      "description": "用于卖萌、投降、撒娇耍赖；正式场合应避免使用。典型语境：求求你了、人家就要、嘛～、不管。"
+    },
+    "cpu": {
+      "description": "表示信息量太大、脑子处理不过来、需要缓冲时间。典型语境：信息量太大、让我缓缓、转不过来了、等我一下。"
+    },
+    "givemoney": {
+      "description": "涉及报酬、要钱、跑路等玩笑语境，慎用于正常讨论金钱。典型语境：这个要收费、打钱、结账、不然不干。"
+    },
+    "color": {
+      "description": "用于暧昧、调情式的玩笑；正式场合与陌生对话中应避免。典型语境：来我房间、陪陪我、想你了。"
+    },
+    "please": {
+      "description": "用于请求、拜托、恳求对方帮忙。典型语境：拜托、求你了、帮我看一下、就这一次。"
+    },
+    "see": {
+      "description": "用于偷瞄、围观、暗中观察对方或进度。典型语境：偷偷看看、围观、不打扰、静静看着。"
+    },
+    "reply": {
+      "description": "用于表示正在听、已收到、应答对方或安静等待回应。典型语境：收到、在听、继续说、这就去办。"
+    }
+  },
+  "extensions": {
+    "semantic": {
+      "version": 1,
+      "file": "semantic_metadata.json"
+    }
+  }
+}
