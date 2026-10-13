@@ -1,4 +1,4 @@
-# 泉妃爱表情包 / Izumi Hiyori Meme Pack
+# 和泉妃爱表情包 / Izumi Hiyori Meme Pack
 
 按 AstrBot 表情包协议（清单模式 `1` + 可选语义扩展 `1` / 元数据模式 `"2.0"`）重构的表情包目录。
 

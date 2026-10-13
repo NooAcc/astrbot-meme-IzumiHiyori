@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "id": "izumi-hiyori-meme-pack",
-  "name": "泉妃爱表情包",
+  "name": "和泉妃爱表情包",
   "version": "1.0.0",
-  "description": "收录 99 张泉妃爱（Izumi Hiyori）聊天表情，按 18 个语义类别整理，并附带 99 条路径级语义描述（不含向量，安装后可自行重建）。",
+  "description": "收录 99 张和泉妃爱（Izumi Hiyori）聊天表情，按 18 个语义类别整理，并附带 99 条路径级语义描述（不含向量，安装后可自行重建）。",
   "author": "NooAcc",
   "homepage": "https://github.com/NooAcc/astrbot-meme-IzumiHiyori",
   "license": "CC-BY-NC-SA-4.0",

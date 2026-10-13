@@ -3229,13 +3229,13 @@
       "reclassification_reason": "",
       "reclassified_at": "",
       "reclassification_history": [],
-      "caption": "玩梗式的表白，说永远喜欢泉妃爱。",
+      "caption": "玩梗式的表白，说永远喜欢和泉妃爱。",
       "tags": [
         "category:like",
         "玩梗",
         "表白"
       ],
-      "visible_text": "我永远喜欢泉妃爱",
+      "visible_text": "我永远喜欢和泉妃爱",
       "caption_status": "done",
       "embedding_status": "pending",
       "provenance": "manual",
@@ -3245,12 +3245,12 @@
       "auto_category_fit": "uncertain",
       "auto_category_review_status": "unchecked",
       "auto_category_review_reason": "",
-      "manual_caption": "玩梗式的表白，说永远喜欢泉妃爱。",
+      "manual_caption": "玩梗式的表白，说永远喜欢和泉妃爱。",
       "manual_tags": [
         "玩梗",
         "表白"
       ],
-      "manual_visible_text": "我永远喜欢泉妃爱",
+      "manual_visible_text": "我永远喜欢和泉妃爱",
       "manual_override": true,
       "vision_model": "",
       "prompt_version": "",
